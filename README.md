@@ -9,8 +9,8 @@ As a Full Stack Developer, I'm committed to applying development and security be
 
 ### 🛠️ Tech Stack & Skills
 
-- **Languages & Frameworks:** JavaScript, React, Node.js, Java (Spring Boot)
-- **DevOps & Monitoring:** Splunk, Dynatrace, Concourse
+- **Languages & Frameworks:** JavaScript, React, Node.js, Angular
+- **DevOps & Monitoring:** Splunk, Dynatrace, Concourse, GitLab, DataDog
 - **Testing:** End-to-End (e2e) & Unit Testing
 - **Frontend:** Material UI (Currently Learning)
 - **Cloud & Containers:** Kubernetes (Currently Learning)
@@ -27,7 +27,7 @@ A React & Spring Boot app dedicated to bunny lovers who want to keep track of th
 
 ### 📚 Currently Learning
 
-- Java Spring Boot
+- Ionic
 - Kubernetes
 - Material UI
 
