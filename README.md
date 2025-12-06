@@ -1,50 +1,102 @@
 
-# Hi, I'm Ana Spinola 👋
+---
 
-## 🚀 Full Stack Developer | DevOps Enthusiast | Bunny Lover
+🌿 Hi, I'm Ana Spinola 👋
 
-As a Full Stack Developer, I'm committed to applying development and security best practices while collaborating on innovative and maintainable solutions. With over three years' experience in this role, I have contributed to the design, testing, and documentation of automated systems, while monitoring logs using advanced tools.
+Environmental Data Analyst | Research Scientist (Environmental Sciences) | Monitoring & Observability Specialist
+
+I’m an environmental scientist (PhD) and data analyst with 6+ years of experience working at the intersection of research, data, observability, and environmental problem-solving. I specialize in analyzing complex datasets — from environmental indicators to REST API logs — using reliable, reproducible, and modern analytical tools.
+
+My professional path bridges two worlds:
+🔬 Academic research (water quality, microbiological & biochemical analyses, public policy, sustainability, northern environments)
+💻 Data & Software (R, monitoring tools like Splunk, Dynatrace, DataDog, Grafana; automation; technical documentation)
+
+I am now transitioning back toward research, environmental monitoring, green infrastructure, and data-driven decision-making roles in Québec.
+
 
 ---
 
-### 🛠️ Tech Stack & Skills
+🧪 Research & Analytical Expertise
 
-- **Languages & Frameworks:** JavaScript, React, Node.js, Angular
-- **DevOps & Monitoring:** Splunk, Dynatrace, Concourse, GitLab, DataDog
-- **Testing:** End-to-End (e2e) & Unit Testing
-- **Frontend:** Material UI (Currently Learning)
-- **Cloud & Containers:** Kubernetes (Currently Learning)
+Environmental Research: microbiological & biochemical water analysis, sampling protocols, environmental monitoring, fieldwork support
 
----
+Data Science (Environmental & Tech):
 
-### 🐰 Featured Project
+R (analysis, visualization, dashboards)
 
-[**Bunny Vets Contacts App**](https://github.com/analuspi/BunnyVetApp)  
-A React & Spring Boot app dedicated to bunny lovers who want to keep track of their favorite vets!  
-> _Because I love bunnies._
+Statistical modelling & reproducible workflows
 
----
+Analysis of large log datasets and system behaviour (Splunk, Dynatrace, DataDog, Grafana)
 
-### 📚 Currently Learning
 
-- Ionic
-- Kubernetes
-- Material UI
+Policy & Reporting: public policy analysis, technical reporting, scientific writing
+
+Teaching & Knowledge Transfer: university-level courses in environmental management and environmental engineering
+
+Collaboration: interdisciplinary teamwork with universities, NGOs, and community organizations
+
+
 
 ---
 
-### 🌐 Connect with Me
+📊 Technical Tools
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ana-lucia-spinola)
+Languages: R, Python (basis), JavaScript
+
+Monitoring & Observability: Dynatrace, Splunk, Grafana, DataDog
+
+Field & Lab: water quality protocols, microbiological assays, environmental sampling
+
+Visualization: ggplot2, R Markdown, dashboards
+
+Cloud/Automation background: GitLab CI/CD, containers, REST APIs (understanding & analysis)
+
+
 
 ---
 
-### ✨ Fun Facts
+🌍 Recent Focus Areas
 
-- Passionate about crafting clean, secure, and scalable code
-- Always excited to collaborate and learn from others
-- Advocate for animal welfare, especially bunnies! 🐇
+Environmental monitoring in northern and sub-arctic regions
+
+Green infrastructure & stormwater management
+
+Ecosystem health indicators
+
+Data pipelines for research and community-driven environmental projects
+
+Combining software observability methods with environmental datasets
+
+
 
 ---
 
-_Thanks for visiting my profile! Let’s build something amazing together._
+🤝 Community & NGO Engagement
+
+Strong commitment to social and environmental impact
+
+Field experience with TECHO Latam, supporting communities living in extreme poverty across Latin America
+
+Passion for accessible science & community-based environmental solutions
+
+
+
+---
+
+🐇 Featured Project (Human + Nature + Tech)
+
+Bunny Vets Contacts App
+A small personal project combining UX, React, and joyful pet care.
+
+> Because I love bunnies, and they deserve good vets.
+
+
+
+
+---
+
+🌱 Currently Developing
+
+Advanced R for environmental monitoring
+
+Python and SQL for data analysis 
